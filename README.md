@@ -1,3 +1,6 @@
+![Pollen_rainbow.png](Pollen_rainbow.png)
+
+
 ## ABOUT JASMINA DZURLIC
 
 ![me.png](me.png)
