@@ -1,6 +1,6 @@
 ## ABOUT JASMINA DZURLIC
 
-![alt tag] (file:///Users/Jasmina/Desktop/me.png)
+![alt tag](file:///Users/Jasmina/Desktop/me.png)
 
 Jasmina Dzurlic is a M.A. candidate in the department of Ecology, Evolution, and Environmental Biology (E3B) (http://e3b.columbia.edu) at Columbia University. She is an active researcher in the Naeem-Palmer Lab and the Eaton Lab (https://eaton-lab.org/people/) with interests in plant biodiversity and genetic variation within species. Broadly, Jasmina’s primary research is investigating speciation genetics in Amaranthus. 
 
