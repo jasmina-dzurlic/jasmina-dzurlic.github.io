@@ -3,9 +3,6 @@
 
 ## ABOUT JASMINA DZURLIC
 
-![me.png](me.png)
-
-
 Jasmina Dzurlic is a M.A. candidate in the department of Ecology, Evolution, and Environmental Biology (E3B) (http://e3b.columbia.edu) at Columbia University. She is an active researcher in the Naeem-Palmer Lab and the Eaton Lab (https://eaton-lab.org/people/) with interests in plant biodiversity and genetic variation within species. Broadly, Jasmina’s primary research is investigating speciation genetics in Amaranthus. 
 
 Fluorescent microscopy and Flow Activated Cytometry (FACS) is used to quantify pollen viability in F1 hybrids. Genome wide associations (GWAS) are performed to determine the influence of sex determination genes in reproductive compatibility between dioecious and hermaphroditic species.
